@@ -1,0 +1,2 @@
+# scrapyd
+dockfile for scrapyd
